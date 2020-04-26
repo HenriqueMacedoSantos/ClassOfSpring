@@ -1,16 +1,18 @@
+package Macedo.Henrique.projFinal;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @author Henrique Macedo Santos
- * @since 23/04/2020 07:39 AM
+ * @since 25/04/2020 8:17 PM
  * @version 1.0
  */
 @SpringBootApplication
-public class Exeploh2mysqlApplication {
+public class ProjFinalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Exeploh2mysqlApplication.class, args);
+		SpringApplication.run(ProjFinalApplication.class, args);
 	}
 
 }
